@@ -2,7 +2,7 @@ GitHub上整理的一些工具
 原文地址：http://www.cnblogs.com/mygxl/p/4139661.html
 
 
-技术站点
+#技术站点#
 
 Hacker News：非常棒的针对编程的链接聚合网站
 
@@ -24,7 +24,7 @@ OpenStack等免费的it电子书：http://it-ebooks.info/
 
 DevStore:开发者服务商店
 
-不错的书籍
+#不错的书籍#
 
 人件
 
@@ -68,7 +68,7 @@ Unix 编程艺术
 
 搞定：无压力工作的艺术
 
-平台工具（都是开源的好东东哦）
+#平台工具（都是开源的好东东哦）#
 
 Redmine/Trac：项目管理平台
 
@@ -94,7 +94,7 @@ Ganglia：分布式监控系统
 
 fleet：分布式init系统
 
-爬虫相关(好玩的工具)
+#爬虫相关(好玩的工具)#
 
 Phantomjs
 
@@ -106,7 +106,7 @@ CasperJS
 
 selenium
 
-Web服务器性能/压力测试工具/负载均衡器
+#Web服务器性能/压力测试工具/负载均衡器#
 
 http_load: 程序非常小，解压后也不到100K
 
@@ -132,7 +132,7 @@ HAR Viewer: HAR分析工具
 
 protractor：E2E（end to end）自动化测试工具
 
-Web前端相关
+#Web前端相关#
 
 GRUNT: js task runner
 
@@ -218,7 +218,7 @@ Emmet:前端工程师必备，ZenCode的前身
 
 MagicDraw:Uml图工具
 
-大数据处理/数据分析/分布式工具
+#大数据处理/数据分析/分布式工具#
 
 Hadoop：分布式的文件系统，结合其MapReduce编程模型可以用来做海量数据的批处理（Hive，Pig，HBase啥的就不说了），值得介绍的是Cloudera的Hadoop分支CDH5，基于YARN MRv2集成了Spark可直接用于生产环境的Hadoop，对于企业快速构建数据仓库非常有用。
 
@@ -276,7 +276,7 @@ Oozie：开源hadoop的工作流调度引擎
 
 Cobar：阿里巴巴的MySql分布式中间件
 
-C & C++
+#C & C++#
 
 Thrift:用来进行可扩展且跨语言的服务的开发(类似的还有个Avro，Google protobuf)。
 
@@ -292,7 +292,7 @@ breakpad:崩溃转储和分析模块，很多crashreport会用到
 
 UI界面相关：MFC、BCG和QT这类的就不说了，高端一点的还有Html和DirectUI技术：libcef（基于chrome内核的，想想使用html5开发页面，还真有点小激动呢）、HtmlLayout、Duilib、Bolt，非C++的，还有node-webkit也不错，集成了node和webkit内核。
 
-游戏开发相关
+#游戏开发相关#
 
 MINA：使用Java开发手游和页游服务器(对了还有Netty，也很猛的，都是基于NIO的)
 
@@ -310,7 +310,7 @@ unity3d：跨平台3D游戏引擎，很火的哦
 
 Nodejs：也有不少使用它来开发手游和也有服务器（网易的Pomelo就是哦）
 
-日志聚合，分布式日志收集
+#日志聚合，分布式日志收集#
 
 Scribe：Facebook的（nodejs + scribe + inotify 同步日志）
 
@@ -328,7 +328,7 @@ SDL,ffmpeg,live555,Speex
 
 Red5:用Java开发开源的Flash流媒体服务器。它支持：把音频（MP3）和视频（FLV）转换成播放流； 录制客户端播放流（只支持FLV）；共享对象；现场直播流发布；远程调用。
 
-Python
+# Python #
 
 Eric,Eclipse+pydev,比较不错的Python IDE
 
@@ -340,7 +340,7 @@ GUI相关：PyQt，PyQwt
 
 supervisor:进程监控工具
 
-Java相关
+# Java相关 #
 
 常用的IDE：IntelliJ IDEA，Eclipse，Netbeans
 
@@ -368,7 +368,7 @@ Akka:一款基于actor模型实现的 并发处理框架
 
 EclEmma：覆盖测试工具
 
-.net相关
+# .net相关 #
 
 Xilium.CefGlue:基于CEF框架的.NET封装，基于.NET开发Chrome内核浏览器
 
@@ -450,7 +450,7 @@ Evaluator：Eval for C#,处理字符串表达式
 
 http://nugetmusthaves.com/
 
-常用工具
+# 常用工具 #
 
 Fiddler：非常好用的Web前端调试工具，当然是针对底层http协议的，一般情况使用Chrome等自带的调试工具也足够了，特殊情况还得用它去处理
 
@@ -519,5 +519,5 @@ ApkIDE:Android反编译神器翻、墙工具（自|由|门、天行浏览器）
 设计工具：Sketch、OmniGraffle
 
 MindManger：思维导图
-
-未完待续……
+> 
+> 未完待续……

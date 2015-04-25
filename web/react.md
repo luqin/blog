@@ -1,1 +1,1 @@
-react-widgets£ºhttps://github.com/jquense/react-widgets
+react-widgetsï¼šhttps://github.com/jquense/react-widgets
